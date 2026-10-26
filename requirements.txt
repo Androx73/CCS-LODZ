@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+azure-identity>=1.17
+azure-storage-blob>=12.20
+python-dotenv>=1.0
